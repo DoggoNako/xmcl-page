@@ -71,7 +71,7 @@ optimalDisk:
     XMCL stockera tous les mods, packs de textures, packs de shaders et modpacks
     dans un emplacement de stockage unique. Lorsque vous essayez d'utiliser une 
     ressource déjà existante, il utilisera un lien direct pour utiliser la ressource
-    dans l'instance choisie sans avoir à la copier. Cela signifie que vous ne verrez plus de mods dupliqués dans le dossier /mods.
+    dans l'instance choisie sans avoir à la copier. Cela signifie que vous ne verrez plus de mods dupliqués dans le dossier mods.
 cleanWorkspace:
   title:
     body: Gardez votre espace de travail {clean} avec différentes instances
